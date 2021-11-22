@@ -10,7 +10,7 @@ I'm Odin and I work as an Android developer. I currently work for [SATS][4] and 
 - Favourite modern toolkit: Jetpack Compose! 🤟
 - Favourite concurrency design pattern: Kotlin Coroutines! 🔥
 
-####  You can find me on Twitter [![Twitter][1.2]][1], or on [LinkedIn][2],
+####  You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google Developer Profile][5]
 
   ---
 
@@ -35,6 +35,9 @@ I'm Odin and I work as an Android developer. I currently work for [SATS][4] and 
 [3]: https://tech.sats.com/mobile/android/2021/03/05/view-pager-in-jetpack-compose.html
 
 [4]: https://www.sats.no/
+
+[5]: https://g.dev/odinasbjornsen
+
 <!--
 **oas004/oas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
