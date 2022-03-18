@@ -16,7 +16,8 @@ I'm Odin and I work as an Android developer. I currently work for [SATS][4] and 
 
 ### ✍️ Blogposts
 
- - [SATS Tech Blog][3]
+ - [SATS Tech Blog - Working with view pager in Jetpack Compose][3]
+ - [SATS Tech Blog - Love at first Glance][6]
 
 
   ---
@@ -37,6 +38,8 @@ I'm Odin and I work as an Android developer. I currently work for [SATS][4] and 
 [4]: https://www.sats.no/
 
 [5]: https://g.dev/odinasbjornsen
+
+[6]: https://tech.sats.com/mobile/android/2022/03/14/glance-widget.html
 
 <!--
 **oas004/oas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
