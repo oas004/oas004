@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm Odin and I work as an Android developer. I currently work for [SATS][4] and live in Oslo, Norway! 🇳🇴 
+I'm Odin and I work as an Android developer. I currently work for [DNB][4] and live in Oslo, Norway! 🇳🇴 
 
   ---
 
@@ -35,7 +35,7 @@ I'm Odin and I work as an Android developer. I currently work for [SATS][4] and 
 
 [3]: https://tech.sats.com/mobile/android/2021/03/05/view-pager-in-jetpack-compose.html
 
-[4]: https://www.sats.no/
+[4]: https://www.dnb.no
 
 [5]: https://g.dev/odinasbjornsen
 
