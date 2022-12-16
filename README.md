@@ -18,14 +18,18 @@ I'm Odin and I work as an Android developer. I currently work for [DNB][4] and l
 
  - [SATS Tech Blog - Working with view pager in Jetpack Compose][3]
  - [SATS Tech Blog - Love at first Glance][6]
-
+ - [Medium - Utilising the Canvas in Jetpack Compose to build a SquareSegmentedProgressIndicator][7]
 
   ---
 
 ### 👨‍💻 Open Source
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=oas004&theme=radical" />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oas004&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oas004&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oas004&locale=en&theme=github-dark-blue&hide_border=true)
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
@@ -40,6 +44,8 @@ I'm Odin and I work as an Android developer. I currently work for [DNB][4] and l
 [5]: https://g.dev/odinasbjornsen
 
 [6]: https://tech.sats.com/mobile/android/2022/03/14/glance-widget.html
+
+[7]: https://medium.com/p/facb7944086b
 
 <!--
 **oas004/oas004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
