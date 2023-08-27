@@ -1,16 +1,11 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=oas004.oas004)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/oas004/open-source-badge/)
+
 ### Hi there 👋,
 
 I'm Odin and I work as an Android developer. I currently work for [DNB][4] and live in Oslo, Norway! 🇳🇴 
 
-  ---
-
-### Fun facts about me:
-
-- Favourite language: Kotlin! ❤️
-- Favourite modern toolkit: Jetpack Compose! 🤟
-- Favourite concurrency design pattern: Kotlin Coroutines! 🔥
-
-####  You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google Developer Profile][5]
+You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google Developer Profile][5]
 
   ---
 
@@ -22,7 +17,7 @@ I'm Odin and I work as an Android developer. I currently work for [DNB][4] and l
 
   ---
 
-### 👨‍💻 Open Source
+### 👨‍💻 Open Source Stats
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oas004&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
@@ -32,7 +27,11 @@ I'm Odin and I work as an Android developer. I currently work for [DNB][4] and l
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oas004&locale=en&theme=github-dark-blue&hide_border=true)
 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oas004&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+[1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/oas004
 
 [2]: https://www.linkedin.com/in/odin-asbjørnsen-ab07a719a/
