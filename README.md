@@ -30,6 +30,9 @@ You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google
 [![trophy](https://github-profile-trophy.vercel.app/?username=oas004&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+### 📌 Holopins
+
+[![An image of @oas004's Holopin badges](https://holopin.me/oas004)](https://holopin.io/@oas004)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/oas004
