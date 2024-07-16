@@ -3,7 +3,7 @@
 
 ### Hi there 👋,
 
-I'm Odin and I work as an Android developer. I currently work for [DNB][4] and live in Oslo, Norway! 🇳🇴 
+I'm Odin and I work as an Android developer. I currently work for [DNB][4] and live in Bergen, Norway! 🇳🇴 
 
 You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google Developer Profile][5]
 
