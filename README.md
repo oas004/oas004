@@ -17,19 +17,6 @@ You can find me on Twitter [![Twitter][1.2]][1], [LinkedIn][2], or on my [Google
 
   ---
 
-### 👨‍💻 Open Source Stats
-
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=oas004&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oas004&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=oas004&locale=en&theme=github-dark-blue&hide_border=true)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oas004&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ### 📌 Holopins
 
 [![An image of @oas004's Holopin badges](https://holopin.me/oas004)](https://holopin.io/@oas004)
